@@ -1,0 +1,9 @@
+{
+  "name": "SoloPossible",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/IlDottore2nd/SoloPossible",
+  "description": "Solo-only QoL mod for Lethal Company: 5th inventory slot, 15% lighter items, +3% sprint speed and stamina regen, 150 HP, and ship-only health regen. Disables perks in multiplayer.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
